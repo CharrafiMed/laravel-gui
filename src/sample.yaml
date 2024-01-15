@@ -1,0 +1,11 @@
+model : 
+  id         : id
+  title      : string 
+  description: text
+  timestamps : timestamps
+
+
+# controller : 
+#   index: 
+  
+  

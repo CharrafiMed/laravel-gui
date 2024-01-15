@@ -1,0 +1,20 @@
+{
+    "name": "muhamed027/laravel-epsilon",
+    "type": "library",
+    "license": "Mit",
+    "autoload": {
+        "psr-4": {
+            "Muhamed027\\LaravelEpsilon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MOHAMED CHARRAFI",
+            "email": "130717329+Muhamed027@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/yaml": "6.4.x-dev"
+    }
+}
